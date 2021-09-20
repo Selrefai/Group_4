@@ -1,0 +1,7 @@
+ITSC-3155
+Asa Dixon
+User Story/Scenario
+
+Story: Jessica is an aerospace engineering major who has participated in school clubs and academic events ever since she was a freshman. Even with all this and a good GPA she still hasn’t managed to find an internship within her field due to a lack of opportunities available to her. She is approaching her senior year while she has built up a good resume with all her college experience, she has yet to get work experience. Jessica needs an outlet to connect her with people in the industry as well as peers to help assist her in the process of getting a job after college. 
+
+Scenario: Jessica downloads our app and decides to search aerospace engineering out of curiosity. It takes the search result and matches it with tags that relate to the topic. She gets events, employers, peers, and information about her field. She’s able to join chat groups and people giving guided lectures on what to expect in the future for her job. She also can view things locally that fit within her search tags. test
