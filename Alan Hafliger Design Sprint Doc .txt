@@ -1,0 +1,47 @@
+﻿Goal/Product Vision 
+* I guess the long term goals/product vision would be to design some kind of software that could help students while they are in school as well as help them be prepared to find a job after college. 
+* The software should hopefully allow the students to find out more about career opportunities available to them. Whether that is further education, a job etc. 
+* The software could also allow employers and schools to see recently graduated students along with credentials and be able to reach out to them. This would allow for a more open line of communication between hopeful graduates and businesses looking to hire them. 
+Stakeholders
+* other stakeholders could be businesses looking for graduating students
+* Students looking to further their education 
+* Students looking for career opportunities 
+* Schools looking for Masters/Doctorate/etc. Students
+
+
+Customer Discovery Questions:
+
+
+* What is a service you feel is/is not provided and ways that it could be added/improved?
+* In what ways would you like to pursue furthering your education/career? (Internship, Entry-Level Job, Extending your education, etc.)
+* Why do you feel you are unprepared for what you want to do after graduation? And how could you be better prepared?
+* What services are already provided that solve some aspect of your problem? How do they do that? 
+* If you have already used these services, how do you think these services could be improved? 
+
+
+HMW Notes: 
+* HMW… Get users to provide all the necessary Information that potential employers would be looking for?
+* HMW… Show users job opportunities that fit their skills, experience, interests, etc?
+* HMW… Get USERS in contact with BUSINESS?
+* HMW… Get BUSINESS in contact with USERS?
+* HMW… Provide a way for users and businesses to interact openly and quickly? 
+* 
+
+
+
+Journey Map: 
+https://jamboard.google.com/d/1tsl0NA8-Y0Z9sm5O_Oi1pSxCYKhtuBhOn9oLABeKFdU/edit?usp=sharing 
+
+
+Relevant Links: 
+https://hbr.org/2019/04/the-biggest-hurdles-recent-graduates-face-entering-the-workforce 
+https://pillars.taylor.edu/cgi/viewcontent.cgi?article=1131&context=mahe 
+https://www.washington.edu/doit/what-can-students-do-improve-their-chances-finding-employment-after-college 
+https://www.theatlantic.com/education/archive/2018/01/why-arent-college-students-using-career-services/551051/
+https://www.topuniversities.com/student-info/careers-advice/how-students-can-find-job-no-experience 
+
+
+
+
+Personas/User Stories:
+https://jamboard.google.com/d/1yATbNcpZs1QPwizkjAObOF8F10cu-Gg2jkFRI-kuwiI/edit?usp=sharing
