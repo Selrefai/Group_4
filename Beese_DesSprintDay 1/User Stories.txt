@@ -1,0 +1,8 @@
+Daniel: As a grad student looking for a job in the business field, I want to be able to search
+for job based off field and location of the hiring company.
+
+Tyrell: As an inspiring cybersecurity major, I need to be able to see a list of skills that
+companies are looking for so that I can work on building up those skills.
+
+Abigail: As a new teacher looking for a position, I need to be able to follow and get notifications
+when companies/organizations listing opening for positions

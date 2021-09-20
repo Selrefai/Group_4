@@ -1,0 +1,4 @@
+Features:
+•Ability to compare resume to positions and make a list of lacking/desired skills
+•Refine search by location and industry
+•Provide a platform to follow and network with companies
