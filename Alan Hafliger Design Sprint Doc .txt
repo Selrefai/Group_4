@@ -1,4 +1,4 @@
-﻿Goal/Product Vision 
+Goal/Product Vision 
 * I guess the long term goals/product vision would be to design some kind of software that could help students while they are in school as well as help them be prepared to find a job after college. 
 * The software should hopefully allow the students to find out more about career opportunities available to them. Whether that is further education, a job etc. 
 * The software could also allow employers and schools to see recently graduated students along with credentials and be able to reach out to them. This would allow for a more open line of communication between hopeful graduates and businesses looking to hire them. 
